@@ -9,3 +9,6 @@ function newfetch(){
     console.log('new featcher ');
     console.log("new fetch added by akash");
 }
+function kumarfet(){
+    console.log("fetcher added by kumar ");
+}
