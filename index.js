@@ -5,3 +5,4 @@ const cgpa=9
 function sum(){
     console.log(age1+cgpa);
 }
+const hp=200;
