@@ -14,4 +14,5 @@ function kumarfet(){
 }
 function fetram(){
     console.log("fetch by ran");
+    console.log("new one by ram")
 }
