@@ -1,5 +1,5 @@
 const age=24
-let name='akash kushwaha'
+let name='akash kushwaha new '
 const cgpa=9
 
 function sum(){
