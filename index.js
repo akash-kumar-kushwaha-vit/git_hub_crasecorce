@@ -1,6 +1,6 @@
 const age=24
 let name='akash kushwaha new '
-const cgpa=9
+const cgpa=18
 
 function sum(){
     console.log(age1+cgpa);
