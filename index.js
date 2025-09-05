@@ -5,3 +5,6 @@ const cgpa=9
 function sum(){
     console.log(age1+cgpa);
 }
+function newfetch(){
+    console.log('new featcher ');
+}
