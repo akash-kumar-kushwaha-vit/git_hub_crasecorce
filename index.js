@@ -12,3 +12,6 @@ function newfetch(){
 function kumarfet(){
     console.log("fetcher added by kumar ");
 }
+function fetram(){
+    console.log("fetch by ran");
+}
