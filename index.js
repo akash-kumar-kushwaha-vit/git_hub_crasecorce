@@ -7,4 +7,5 @@ function sum(){
 }
 function newfetch(){
     console.log('new featcher ');
+    console.log("new fetch added by akash");
 }
